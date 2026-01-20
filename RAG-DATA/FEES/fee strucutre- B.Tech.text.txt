@@ -1,0 +1,9 @@
+Course: B.Tech
+Specialization: Computer Science Engineering
+Total Course Fee: ₹3.8 Lakhs
+Fee Breakdown:
+  - Year 1: ₹1.0 Lakhs
+  - Year 2: ₹1.0 Lakhs
+  - Year 3: ₹0.9 Lakhs
+  - Year 4: ₹0.9 Lakhs
+Admission Type: Merit-based

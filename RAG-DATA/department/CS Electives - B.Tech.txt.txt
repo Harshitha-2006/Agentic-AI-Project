@@ -1,0 +1,21 @@
+## CS Electives - B.Tech
+
+Semester 5:
+- Data Mining
+- Artificial Intelligence
+- Computer Networks
+
+Semester 6:
+- Machine Learning
+- Software Engineering
+- Cloud Computing
+
+Semester 7:
+- Cybersecurity
+- Mobile App Development
+- Big Data Analytics
+
+Semester 8:
+- Advanced AI
+- Distributed Systems
+- Project Work
